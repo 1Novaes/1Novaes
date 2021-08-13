@@ -1,4 +1,4 @@
-### Olá! Sou o Igor Novaes 
+### Eae! Sou o Igor Novaes 
 
 
 - 🔭 Trabalhando com Front-End
