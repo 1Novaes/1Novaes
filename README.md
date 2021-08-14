@@ -10,7 +10,7 @@
 
 ## Habilidades
   
-  <div style="display: inline_block">
+  <div style="display: inline_block"> <br>
   
     <img  alt="Igor-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img  alt="Igor-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
