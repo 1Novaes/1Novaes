@@ -8,7 +8,7 @@
 
 <hr>
 
-##Habilidades
+## Habilidades
   
   <div style="display: inline_block"><br>
     <img  alt="Igor-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
