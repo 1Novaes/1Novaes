@@ -9,7 +9,7 @@
 <hr>
 
 
-  <h1 text-align ="Center">Habilidades</h1>
+  <h3>Habilidades</h3>
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
