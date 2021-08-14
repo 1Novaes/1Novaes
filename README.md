@@ -7,7 +7,7 @@
 - 🤔 Busco ajuda em Java POO 
 
 <hr>
-
+<h1 text-align ="Center">Habilidades</h1>
 <div>
   <img align="center" alt="Rafa-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
