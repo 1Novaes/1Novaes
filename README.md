@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Sou estudante de Tecnologia em Sistemas de Computação (5° Semestre)
+- 🌱 Sou estudante de Tecnologia em Sistemas de Computação 
 - 🚀 Interesse: HTML , CSS, Javascript, JQuery, PHP ,SQL, Java e Python
 - 🤔 Busco ajuda em Java POO 
 
