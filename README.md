@@ -3,7 +3,7 @@
 
 
 - 🌱 Sou estudante de Tecnologia em Sistemas de Computação 
-- 🚀 Interesse: HTML , CSS, Javascript, JQuery, PHP ,SQL, Java e Python
+- 🚀 Interesse: HTML , CSS, Javascript, JQuery, PHP ,MySql
 - 🤔 Busco ajuda em Java POO 
 
 <hr>
