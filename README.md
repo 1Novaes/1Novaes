@@ -3,8 +3,8 @@
 
 
 - 🌱 Sou estudante de Tecnologia em Sistemas de Computação 
-- 🚀 Interesse: HTML , CSS, Javascript, JQuery, PHP ,MySql
-- 🤔 Busco ajuda em Java POO 
+- 🚀 Interesse: HTML , CSS, Javascript,React,Angular,JQuery, PHP ,MySql, Java
+
 
 <hr>
 
@@ -16,7 +16,7 @@
   <img  alt="Igor-Js" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  alt="Igor-php" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img  alt="Igor-Csharp" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img  alt="Igor-Python" height="55" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
   
 
 </div>
