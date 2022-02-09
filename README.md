@@ -3,7 +3,7 @@
 
 
 - 🌱 Sou estudante de Tecnologia em Sistemas de Computação 
-- 🚀 Interesse: HTML , CSS, Javascript,,React.js,Next.js PHP e MySql
+- 🚀 Conhecimento: HTML , CSS, Javascript,,React.js,Next.js PHP e MySql
 
 
 <hr>
