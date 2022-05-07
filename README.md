@@ -3,7 +3,7 @@
 
 
 - 🌱 Sou estudante de Tecnologia em Sistemas de Computação 
-- 🚀 Conhecimento: HTML , CSS, Javascript, Bootstrap, React.js, PHP e MySql
+- 🚀 Conhecimento:PHP, MySql, Javascript,HTML , CSS  e Bootstrap
 
 
 
