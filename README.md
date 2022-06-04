@@ -3,7 +3,7 @@
 
 
 - 🌱 Sou estudante de Tecnologia em Sistemas de Computação 
-- 🚀 Conhecimento:PHP, MySql, Laravel,Java, Javascript,HTML , CSS  e Bootstrap
+- 🚀 Conhecimentos :PHP, MySql, Laravel,Java, Javascript,HTML , CSS  e Bootstrap
 - GIT
 - Metodologias Ageis: Scrum e Kanban
 
